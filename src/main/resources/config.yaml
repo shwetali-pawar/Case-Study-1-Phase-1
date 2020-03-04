@@ -1,0 +1,4 @@
+request:
+  host: "people.zoho.com"
+  basepath: "/people/api/forms/P_EmployeeView"
+  path: "/records"
